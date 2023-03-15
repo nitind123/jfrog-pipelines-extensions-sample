@@ -13,7 +13,7 @@ resources:
       flag: true
 
 pipelines: 
-  - name: MyHealthCheck
+  - name: MyHealthCheck1
     configuration:
       environmentVariables:
         readOnly:
